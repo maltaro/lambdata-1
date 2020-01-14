@@ -12,7 +12,7 @@ with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
     setuptools.setup(
         name="lambdata-jwross24",
-        version="0.2.0",
+        version="0.3.0",
         author="jwross24",
         description="a collection of data science helper functions",
         long_description=LONG_DESCRIPTION,

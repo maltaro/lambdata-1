@@ -11,6 +11,8 @@ ipykernel = "*"
 [packages]
 numpy = "*"
 pandas = "*"
+seaborn = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.7"
